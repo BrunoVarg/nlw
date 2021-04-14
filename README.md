@@ -3,7 +3,7 @@
 # Como rodar
 * **Faça um clone do repositório**:
 
-   ```$ git clone https://github.com/HigorSnt/proffy.git```
+   ```$ git clone https://github.com/BrunoVarg/nlw.git```
 * **Executando a Aplicação**:
 
   ### *API*
@@ -15,15 +15,19 @@
 
   ##### Inicie a API
   ```$ yarn start # ou npm start```
+  
+  <b>
 
-  ### Aplicação web
+  ### *Aplicação Web*
   ```$ cd web```
   ##### Instalando as dependências do projeto.
   ```$ yarn # ou npm install```
   ##### Inicie a aplicação web
   `$ yarn start # ou npm start`
+  <b>
+  
 
-  ### Aplicação mobile
+  ### *Aplicação Mobile*
   `$ cd mobile`
   ##### Instalando as dependências do projeto.
   `$ yarn # ou npm install`
