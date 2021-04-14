@@ -24,8 +24,9 @@
   ```$ yarn # ou npm install```
   ##### Inicie a aplicação web
   `$ yarn start # ou npm start`
-  <br/>
   
+  
+  <br/>
 
   ### *Aplicação Mobile*
   `$ cd mobile`
