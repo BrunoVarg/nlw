@@ -16,7 +16,7 @@
   ##### Inicie a API
   ```$ yarn start # ou npm start```
   
-  <b>
+  <br/>
 
   ### *Aplicação Web*
   ```$ cd web```
@@ -24,7 +24,7 @@
   ```$ yarn # ou npm install```
   ##### Inicie a aplicação web
   `$ yarn start # ou npm start`
-  <b>
+  <br/>
   
 
   ### *Aplicação Mobile*
