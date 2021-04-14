@@ -3,10 +3,10 @@
 # Como rodar
 * **Faça um clone do repositório**:
 
- ```$ git clone https://github.com/HigorSnt/proffy.git```
+   ```$ git clone https://github.com/HigorSnt/proffy.git```
 * **Executando a Aplicação**:
 
-  ### API
+  ### *API*
   ```$ cd server```
   ##### Instalando as dependências do projeto.
   ```$ yarn # ou npm install```
